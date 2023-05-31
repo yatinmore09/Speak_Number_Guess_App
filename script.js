@@ -1,3 +1,4 @@
+//speak functinality for game
 const msgEl = document.getElementById('msg');
 
 const randomNum = getRandomNumber();
